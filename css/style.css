@@ -1,0 +1,11 @@
+.row {
+    border: black 1px solid;
+}
+
+.col {
+    border: black 1px solid;
+}
+
+.big {
+    height: 500px;
+}
