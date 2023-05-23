@@ -1,11 +1,71 @@
-.row {
-    border: black 1px solid;
-}
 
-.col {
-    border: black 1px solid;
-}
 
 .big {
     height: 500px;
+}
+body {
+    background-image: url(https://wallpapers.com/images/hd/michael-jackson-live-concert-q0z8aod99g8aqea1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    background-color: transparent;
+  }
+  
+  li {
+    float: left;
+    text-align: center;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    color: white;
+    text-decoration: underline rgb(255, 255, 255);
+    font-weight: bold;
+  }
+
+  nav {
+    background-color: rgb(59, 57, 57);
+    font-family: 'fordngbs-antenna-bold',arial,helvetica,sans-serif;
+  }
+/* */
+
+.logo {
+    height: 100px;
+    width: 70px;
+}
+
+.space {
+    margin-top: 500px;
+    background-color: black;
+    opacity: 80%;
+}
+
+p {
+    background-color: black;
+    color: aliceblue;
+    width: 500px;
+    margin-left: 210px;
+}
+
+h1 {
+    color: rgb(184, 109, 137);
+    text-decoration: underline;
 }
