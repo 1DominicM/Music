@@ -1,3 +1,4 @@
+/*
 .row {
     border: solid rgb(255, 255, 255) 1px;
 }
@@ -5,14 +6,13 @@
 .col {
     border: solid rgb(255, 255, 255) 1px;
 }
-
+*/
 body {    background-repeat: no-repeat;
     background-size: cover;
     background-color: black;
     text-align: center;
     align-items: center;
 }
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -55,5 +55,14 @@ ul {
 
 
 .space {
-    height: 500px;
+    height: 700px;
+}
+
+h1  {
+  color: rgb(243, 231, 216);
+  font-size: 30px;
+}
+
+.merch {
+  padding-top: 30px;
 }
