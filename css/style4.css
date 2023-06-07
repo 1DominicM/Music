@@ -1,0 +1,57 @@
+.row {
+    border: solid rgb(255, 255, 255) 1px;
+}
+
+.col {
+    border: solid rgb(255, 255, 255) 1px;
+}
+
+.tall {
+    height: 400px;
+}
+
+
+body {    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    text-align: center;
+    align-items: center;  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    background-color: transparent;
+  }
+  
+  li {
+    float: left;
+    text-align: center;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    color: white;
+    text-decoration: underline rgb(255, 255, 255);
+    font-weight: bold;
+  }
+
+  nav {
+    background-color: rgb(59, 57, 57);
+    font-family: 'fordngbs-antenna-bold',arial,helvetica,sans-serif;
+  }
+/* */
+
+.logo {
+    height: 100px;
+    width: 70px;
+}
