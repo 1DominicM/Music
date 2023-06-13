@@ -1,3 +1,4 @@
+/*
 .row {
     border: solid rgb(255, 255, 255) 1px;
 }
@@ -5,7 +6,7 @@
 .col {
     border: solid rgb(255, 255, 255) 1px;
 }
-
+*/
 .tall {
     height: 400px;
 }
@@ -48,10 +49,21 @@ ul {
   nav {
     background-color: rgb(59, 57, 57);
     font-family: 'fordngbs-antenna-bold',arial,helvetica,sans-serif;
+    opacity: 88%;
   }
 /* */
 
 .logo {
     height: 100px;
     width: 70px;
+}
+
+h1 {
+  color: aliceblue;
+  font-size: 100px;
+  margin-top: 100px;
+}
+
+img {
+  height: 400px;
 }

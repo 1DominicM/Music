@@ -2,6 +2,7 @@
 
 .big {
     height: 500px;
+
 }
 body {
     background-image: url(https://wallpapers.com/images/hd/michael-jackson-live-concert-q0z8aod99g8aqea1.jpg);
@@ -44,6 +45,7 @@ ul {
   nav {
     background-color: rgb(59, 57, 57);
     font-family: 'fordngbs-antenna-bold',arial,helvetica,sans-serif;
+    opacity: 88%;
   }
 /* */
 
